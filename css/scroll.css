@@ -1,0 +1,24 @@
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #314E59;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #111A26; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #1E3040;
+}
+
+/*
+#111A26
+#1E3040
+#314E59
+#6593A6
+#A9CBD9
+*/
